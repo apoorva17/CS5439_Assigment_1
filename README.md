@@ -15,8 +15,11 @@ Run the js script in your browser. Make sure jQuery is initialised before usage.
 
 ## ToDoList
 
-* Write own, brighter, clearer version of script (python ?)
-* Looking-like reverse shell
+* Python script
+  * Update _wp_attache_file
+  * Crop image
+  * Create post
+  * Use exploit to create looking-like reverse shell
 * Include projet report
 
 
